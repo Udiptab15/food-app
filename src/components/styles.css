@@ -1,0 +1,15 @@
+.carousel-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-height: 80vh;
+  }
+  .carousel-container {
+    max-width: 900px;
+  }
+
+  .card-body{
+    display: inline-block;
+    margin: auto;
+    padding: 30px;
+  }
